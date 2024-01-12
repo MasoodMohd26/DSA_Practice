@@ -1,0 +1,2 @@
+cout << "PREORDER : ";
+    preorder(root);
